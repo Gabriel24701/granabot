@@ -2,3 +2,8 @@ CLAUDE.mdCLAUDE.md
 ROADMAP.md
 CLAUDE.md
 ROADMAP.md
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
